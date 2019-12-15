@@ -10,4 +10,9 @@ File Share is a Android app which will allow user to share their files to Window
 3. Run File Share Android app in your Android device.
 
 # Working Screenshots
+Receiving file form Android mobile
 ![Python output](/Screenshots/python.png)
+
+Sending file to my laptop
+![Python output](/Screenshots/android.jpeg)
+
