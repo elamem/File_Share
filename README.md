@@ -8,3 +8,6 @@ File Share is a Android app which will allow user to share their files to Window
 1. Download and Run 'server.py' python program. 
 2. Connect your Desktop or laptop with Android wifi tethering.
 3. Run File Share Android app in your Android device.
+
+# Working Screenshots
+![Python output](/Screenshots/python.png)
