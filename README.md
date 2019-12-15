@@ -14,5 +14,6 @@ Receiving file form Android mobile
 ![Python output](/Screenshots/python.png)
 
 Sending file to my laptop
+
 ![Python output](/Screenshots/android.jpeg)
 
